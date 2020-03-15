@@ -1,0 +1,40 @@
+header h1 {
+    font-family: 'Marck Script', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    margin-left: 200px;
+}
+
+#canvas1{
+    border: 2px solid green;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    margin-left: 20px;
+}
+
+.new-game{
+    display: none;
+}
+
+.dead{
+    display: none;
+}
+
+.displayBtn{
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+
+button {
+    font-family: 'Marck Script', cursive;
+    font-weight: 400;
+    font-size: 18px;
+    color: red;
+    background-color: yellowgreen;
+    box-shadow: 1px 2px 2px 2px black;
+}
+
+select {
+    margin-left: 20px;
+}
